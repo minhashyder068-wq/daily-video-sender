@@ -1,0 +1,8 @@
+style: watercolor
+aspect_ratio: "9:16"
+duration_seconds: 45
+tts:
+  voice: en-US-GuyNeural
+youtube:
+  upload: false
+  privacy_status: private
